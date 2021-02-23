@@ -1,0 +1,22 @@
+{
+  "name": "usdi-bep20-contract",
+  "version": "1.0.0",
+  "description": "Smart contract for BEP20/ERC20 USDi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inverte/usdi-bep20-contract.git"
+  },
+  "author": "Elbert Corniell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inverte/usdi-bep20-contract/issues"
+  },
+  "homepage": "https://github.com/inverte/usdi-bep20-contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0"
+  }
+}
